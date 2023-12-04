@@ -1,88 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Loranca de Tajuna",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2023-12-02T16:18:31.372Z",
+      "notes": "Hey",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "40.43349948708734",
+        "lng": "-3.1420898437500004"
       },
-      "id": 17806751
+      "id": 1
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Montchevrier",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-02T16:18:53.499Z",
+      "notes": "hi",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "46.48297710837707",
+        "lng": "1.8017578125000002"
       },
-      "id": 98443197
+      "id": 2
     },
     {
-      "cityName": "Springfield",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-12-02T10:55:09.022Z",
-      "notes": "I went for company opening ",
+      "cityName": "Malta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2023-12-03T10:33:47.220Z",
+      "notes": "I want to come back here",
       "position": {
-        "lat": "37.750232530747496",
-        "lng": "-85.1220703125"
+        "lat": "35.64771140364303",
+        "lng": "14.589843750000002"
       },
-      "id": 98443198
+      "id": 3
     },
     {
-      "cityName": "Township of Walker",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-12-02T10:55:09.022Z",
-      "notes": "Hey!!! a nice place to be ",
+      "cityName": "El Menia",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-03T10:34:17.324Z",
+      "notes": "Nice place",
       "position": {
-        "lat": "38.70554368047092",
-        "lng": "-92.4169921875"
+        "lat": "31.138383902221957",
+        "lng": "3.4277343750000004"
       },
-      "id": 98443199
-    },
-    {
-      "cityName": "Township of Highland-District 2",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-12-02T11:23:58.584Z",
-      "notes": "Washington was a beautiful sight to behold",
-      "position": {
-        "lat": "39.693095484661825",
-        "lng": "-100.06347656250001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Puebla de Don Rodrigo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-02T11:30:55.427Z",
-      "notes": "Great place",
-      "position": {
-        "lat": "39.133968046167915",
-        "lng": "-4.746093750000001"
-      },
-      "id": 98443201
+      "id": 4
     }
   ]
 }
