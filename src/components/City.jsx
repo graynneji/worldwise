@@ -24,12 +24,13 @@ function City() {
   // console.log(lng, lng);
 
   const { getCity, currentCity, isLoading } = useCities();
-
+  //adding the getCity function in the dependency array will cause a multiple rerender
+  //so the way around is to use a useCallback hook to get the function stable, we do it in the citiesContext where the function is
   useEffect(
     function () {
       getCity(id);
     },
-    [id]
+    [id, getCity]
   );
 
   const { cityName, emoji, date, notes } = currentCity;
